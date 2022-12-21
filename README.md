@@ -15,3 +15,5 @@ Presentation: https://www.canva.com/design/DAFVT2j4e9U/env7CqheiEv-58czihTI4A/ed
   -import as zip file<br>
   
   Enjoy!!!<br>
+
+<img src="https://github.com/Wipupat-Chomthaworn/Pirate-Adventure-OOP-Game/blob/dd2b8748b2bae9fd385559e06d7e8e5951392ad2/image.png" alt="Employee data" title="Employee Data title">
