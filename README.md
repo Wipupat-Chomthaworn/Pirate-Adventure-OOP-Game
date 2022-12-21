@@ -10,8 +10,8 @@ Document: https://docs.google.com/document/d/1u4gRqn2ww32OSh9yfh0IR9NV942A7D0j4e
 Presentation: https://www.canva.com/design/DAFVT2j4e9U/env7CqheiEv-58czihTI4A/edit?utm_content=DAFVT2j4e9U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton<br>
 ```diff
   +How to run <br>
-  @@-download game.zip<br>
-  @@-open Netbeans<br>
+  @@ -download game.zip<br>
+  @@ -open Netbeans<br>
   @@-add resorce folder
     Step 1:<br>
     <img src="https://github.com/Wipupat-Chomthaworn/Pirate-Adventure-OOP-Game/blob/017b30e7b86ecaf8fc007aa1521efa4256dc5964/img%20step1.png" alt="Employee data" title="Employee Data title">
