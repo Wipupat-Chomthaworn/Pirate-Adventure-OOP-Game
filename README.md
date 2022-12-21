@@ -11,6 +11,7 @@ Presentation: https://www.canva.com/design/DAFVT2j4e9U/env7CqheiEv-58czihTI4A/ed
   How to run <br>
   -download game.zip<br>
   -open Netbeans<br>
+  -add resorce folder
   -import as zip file<br>
   
   Enjoy!!!<br>
